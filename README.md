@@ -44,7 +44,8 @@ Inventory Data
 Sales Transactions
 
 📷 Dashboard Preview
-<img width="1379" height="773" alt="image" src="https://github.com/user-attachments/assets/ec10b67d-1c56-4221-bda2-3f6c353fd176" />
+<img width="1382" height="771" alt="image" src="https://github.com/user-attachments/assets/9dcc81b4-33c8-4c12-ad5a-ec58221dd1cb" />
+
 
 
 🚀 Conclusion
